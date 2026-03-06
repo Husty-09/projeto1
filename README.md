@@ -1,5 +1,5 @@
 <h1> 
-Calculadora em html e js
+Calculadora em HTML e CSS
 </h1>
 <p>🧾 Explicação do Código – Calculadora de Tarefas Ágeis (Java Script)
 
